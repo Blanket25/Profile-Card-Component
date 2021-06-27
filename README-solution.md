@@ -38,7 +38,7 @@ This was a great practice to challenge my self and write my code the best and mo
 
 - LinkedIn - [Bianca Inga](https://www.linkedin.com/in/biancainga/)
 - Frontend Mentor - [@Blanket25](https://www.frontendmentor.io/profile/Blanket25)
-
+- Live Site - [Live site](https://blanket25.github.io/Profile-Card-Component/)
 
 
 ## Acknowledgments
